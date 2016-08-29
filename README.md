@@ -3,7 +3,7 @@ atom
 
 atom 에디터에 대해서 알아보자
 
-1.	atom 에디터란?
+1.	[atom 에디터란?](/innocodingschool/atom/blob/master/edu/lec1.md)
 2.	atom 설치
 3.	atom 장점
 4.	atom 세팅하기
